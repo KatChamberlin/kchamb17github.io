@@ -1,0 +1,70 @@
+body{
+    background-color: #000000;
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #800000;
+    color:#FFFFFF;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+nav{
+    background-color:#f70d1a;
+    font-weight: bold;
+    text-align: center;
+    padding: 1em;
+}
+nav a{
+    text-decoration: none;
+}
+main{
+    padding: 1px 20px 20px 20px; 
+    display: block;
+}
+h1{
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:#990012;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: #990012;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+dt{
+    color: #800000;
+}
+footer{
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    padding: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.food{
+    color:#990012;
+    font-weight: bold;
+}
+#contact{
+    font-size: 90%;
+}
+#homehero{
+    height: 300px;
+    background-image: url(katfoodbanner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#phoenixhero{
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#scottsdalehero{
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
