@@ -1,0 +1,104 @@
+body{
+    background-color: #000000;
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrapper {
+    margin: auto;
+    background-color: #800000;
+    border: 1px solid #FFFFFF;
+}
+header{
+    background-color: #000000;
+    color:#FFFFFF;
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 3em;
+}
+nav{
+    background-color:#800000;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.5em;
+}
+nav a{
+    text-decoration: none;
+}
+nav a:link{
+    color: #FFFFFF;
+}
+nav a:visited{
+    color: #000000;
+}
+nav a:hover{
+    color: #DAA520;
+}
+main{
+    padding: 1px 20px 20px 20px; 
+    display: block;
+}
+h1{
+    margin-bottom: 0;
+    margin-bottom: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    letter-spacing: 0.15em;
+}
+h2{
+    color:#990012;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: #990012;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+dt{
+    color: #800000;
+}
+footer{
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    padding: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+video{
+    float: right;
+    margin: 1em;
+}
+#homehero{
+    height: 300px;
+    background-image: url(real\ kat\ food\ banner.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#phoenixhero{
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#scottsdalehero{
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#tempehero{
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+table { border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+td, th { padding: .5em;
+         border: 2px solid #FFFFFF;
+}
+
+td{ text-align: center; }
+
+.text {text-align: left;}
+
+tr:nth-of-type(odd) {background-color: #990012; }
